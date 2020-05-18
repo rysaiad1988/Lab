@@ -1,0 +1,752 @@
+/* Media Queries */
+@media screen and (max-width: 1300px) {
+
+  /* Home page */
+  .phone {
+    margin-left: 30px;
+    margin-top: 4px;
+  }
+
+  .logo__image {
+    width: 100%;
+  }
+
+  .navigation-menu {
+    margin-left: 0;
+  }
+
+  .menu {
+    padding-top: 10px;
+  }
+
+  .menu-opened {
+    display: none;
+  }
+
+  .menu__item {
+    margin-right: -14px;
+    font-size: 16px;
+  }
+
+  /* Второй экран  */
+  .deserved__desc {
+    width: 100%;
+  }
+
+  /* Третий экран  */
+  .direction__desc {
+    width: 100%;
+  }
+
+  /* Четвертый экран */
+  .news__title::after {
+    width: 100%;
+  }
+
+  .news__link {
+    width: 100%;
+  }
+
+  .mission__title::after {
+    width: 100%;
+  }
+
+  .mission__wrap {
+    width: 100%;
+  }
+
+  .news {
+    margin-left: 20px;
+  }
+
+  .news__desc {
+    width: 100%;
+  }
+
+  .links-box__left {
+    margin-left: 0;
+  }
+
+  /* Footer */
+  .footer__logo {
+    max-width: 100%;
+  }
+
+  .footer__phone {
+    margin-left: 0;
+  }
+
+  .cooperate {
+    margin-top: 25px;
+  }
+
+  .footer-info {
+    margin-top: 25px;
+  }
+
+  /* About page */
+  .advantages__text {
+    max-width: 100%;
+
+  }
+
+
+  .advantages__desc {
+    max-width: 100%;
+  }
+
+  .advantages__desc-short {
+    max-width: 100%;
+  }
+
+
+  .bg-color .row {
+    align-items: flex-end;
+  }
+
+  .advantages__desc-short {
+    margin-left: 13px;
+  }
+
+  /* Contakt page */
+
+  .adress-cart {
+    right: 20px;
+  }
+
+  /* Servise page */
+  .second-area__desc {
+    max-width: 100%;
+  }
+
+  .escort__list {
+    width: 100%;
+
+  }
+
+  .escort__icon {
+    margin-left: 0;
+  }
+
+  .ml-auto,
+  .mx-auto {
+    margin-left: 0 !important;
+  }
+
+  .escort__link {
+    font-size: 13.42px;
+  }
+
+  .wrapper-bar {
+    width: 100%;
+    padding: 46px 0 160px 0px;
+    margin-left: 0;
+  }
+
+
+  .carusel__item {
+    padding: 0 10px;
+  }
+
+  .reviews__text {
+    width: 100%;
+  }
+}
+
+/* 768 - 992 px */
+@media screen and (max-width: 992px) {
+
+  /* Home page */
+  .heading {
+    padding: 23px 0 19px 0;
+  }
+
+  .bar {
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 15px;
+  }
+
+  .menu-opened {
+    width: 190%;
+  }
+
+
+  .phone {
+    margin-top: 0;
+    margin-left: 20px;
+  }
+
+  .offer {
+    margin-top: 92px;
+  }
+
+  /* Home page */
+  /* Втарой экран  */
+
+  .desetved__more {
+    right: 37%;
+  }
+
+  .deserved__area {
+    margin-bottom: 40px;
+  }
+
+  /* Втарой экран  */
+  /* Третий экран  */
+  .direction {
+    margin-bottom: 40px;
+  }
+
+  .directions {
+    padding: 81px 0 40px 0;
+  }
+
+
+
+  /* Третий экран  */
+  /* Четвертый экран  */
+  .mission__desc {
+    margin-bottom: 24px;
+  }
+
+  .news {
+    margin-left: -9px;
+    margin-top: 48px;
+  }
+
+  .news__link:first-child {
+    margin-top: 33px;
+  }
+
+  .news__link:last-child {
+    margin-bottom: 6px;
+  }
+
+  /* Четвертый экран  */
+  /* Пятый экран  */
+  .links {
+    padding: 39px 0 41px 0;
+  }
+
+  .links-box__lefts {
+    margin-left: 0;
+  }
+
+  .links-box__left {
+    margin-left: 0;
+  }
+
+  .links-box {
+    margin-bottom: 39px;
+  }
+
+  /* Пятый экран  */
+
+  /* Footer */
+  .footer {
+    padding: 37px 0 39px 0;
+  }
+
+  .cooperate {
+    margin-top: 0;
+    width: 100%;
+    margin-left: 8px;
+  }
+
+  .footer-info {
+    margin-top: 0;
+    margin-left: 19px;
+  }
+
+  .footer__phone {
+    display: none;
+  }
+
+  /* About page */
+  .nav-area__title {
+    text-align: center;
+  }
+
+  .nav-area__menu {
+    justify-content: center;
+  }
+
+  .advantages__item::after {
+
+    margin-top: 30px;
+  }
+
+  .cart {
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+
+  .images {
+    padding: 44px 0 39px 0;
+  }
+
+  .cart__overlay-compress {
+    opacity: 1;
+  }
+
+  .cart__overlay-alt {
+    display: none;
+  }
+
+
+  /* Sevice page */
+  .escort__icon {
+    margin-bottom: 26px;
+  }
+
+
+  .escort__title {
+    margin-top: 0;
+    margin-right: 58px;
+  }
+
+  .second-area__desc {
+    max-width: 100%;
+  }
+
+  .consultation {
+    width: 100%;
+  }
+
+  .reviews__text {
+    width: 100%;
+  }
+
+  .navigation {
+    margin-left: 0;
+    justify-content: space-evenly;
+  }
+
+  .escort .row {
+    align-items: center;
+  }
+
+  .escort__icon {
+    margin-left: 0;
+  }
+
+  .escort__text {
+    width: 100%;
+  }
+
+  .escort__list {
+    display: none;
+  }
+
+  .wrapper-bar {
+    padding: 46px 0 50px 0px;
+  }
+
+
+  .navigation-area__link-br {
+    display: inline-block;
+    margin-left: 0;
+  }
+
+  .consultation {
+    margin-bottom: 40px;
+  }
+
+}
+
+/* 576 - 769 px */
+@media screen and (max-width: 767px) {
+  .menu-opened {
+    max-width: 90%;
+  }
+
+  .phone {
+    margin-left: 0;
+    margin-right: -25px;
+  }
+
+  .bar {
+    margin-left: 0;
+  }
+
+  .offer__title {
+    font-size: 45px;
+  }
+
+  .offer__text {
+    width: 100%;
+    font-size: 25px;
+  }
+
+  .deserved__title {
+    font-size: 25px;
+  }
+
+  .mission__wrap {
+    flex-direction: column;
+  }
+
+  .mission__title {
+    font-size: 20px;
+  }
+
+  .mission__list {
+    margin-left: 0;
+  }
+
+  .mission__link {
+    margin-bottom: 35px;
+  }
+
+  .footer-wrap {
+    display: inline-block;
+  }
+
+  .footer-info {
+    margin-left: 0;
+  }
+
+  .footer-wrap {
+    justify-content: center;
+  }
+
+  .footer-info__design {
+    text-align: initial;
+  }
+
+  .cooperate__desc {
+    margin-bottom: 27px;
+    margin-right: 30px;
+  }
+
+  .cooperate__adress {
+    margin-bottom: 27px;
+    margin-right: 30px;
+  }
+
+  /* About page */
+  .navigation {
+    justify-content: space-evenly;
+
+  }
+
+  .advantages__list::before {
+    margin-bottom: 0;
+  }
+
+  .advantages__desc-short {
+    margin-bottom: 52px;
+    margin-left: 0px;
+  }
+
+
+  /* Service page */
+
+  .escort .row {
+    text-align: center;
+  }
+
+  .escort__list {
+    display: none;
+  }
+
+  .escort__title {
+    text-align: initial;
+  }
+
+  .escort__text {
+    text-align: initial;
+  }
+
+  .escort__icon {
+    margin: 0 auto;
+  }
+
+
+  .consultation__wrap {
+
+    margin-bottom: 15px;
+  }
+
+  /* Contact page */
+  .adress-cart {
+    border-radius: 3px;
+    position: inherit;
+    margin: 20px 0 20px 0;
+    width: 100%;
+    right: 0;
+    top: 0;
+  }
+
+  .adress-cart::before {
+    display: none;
+  }
+
+  .adress-cart__text {
+    width: 100%;
+  }
+
+  /* Call form */
+  .call {
+    padding: 22px 22px;
+  }
+
+  .form__input {
+    width: 100%;
+  }
+
+  .form__btn {
+    width: 100%;
+  }
+
+
+}
+
+/* 320-576px */
+@media screen and (max-width: 576px) {
+
+  .offer {
+    margin-top: 107px;
+  }
+
+  .deserved__title {
+    margin-left: 2px;
+  }
+
+  .desetved__more {
+    right: 31%;
+  }
+
+  .info {
+    padding: 43px 0 30px 0;
+  }
+
+  .mission__desc {
+    margin-bottom: 36px;
+  }
+
+  .news {
+    margin-left: 2px;
+    margin-top: 0px;
+  }
+
+  .links .row {
+    text-align: center;
+  }
+
+  .links-box {
+    margin-bottom: 32px;
+  }
+
+  .footer .row {
+    text-align: center;
+  }
+
+  .footer__phone {
+    display: inline-block;
+  }
+
+  /* Contact page */
+  .navigation {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .advantages__title {
+
+    margin-bottom: 22px;
+  }
+
+  .advantages__desc {
+    margin-bottom: 23px;
+  }
+
+  .adress-cart {
+    padding: 25px 53px 33px 31px;
+  }
+
+  .adress-cart__text:last-child {
+    margin-top: 12px;
+  }
+
+  .contact-wrap {
+    flex-direction: column;
+  }
+
+  .adress-cart__text {
+    margin-left: 0;
+    margin-top: 25px;
+  }
+
+  .adress-cart__text:last-child {
+    margin-bottom: 0;
+  }
+
+  /* About page */
+  .advantages__wrapp {
+    position: initial;
+    margin-top: 30px;
+  }
+
+  .advantages__name {
+    margin-left: 0;
+  }
+
+  .advantages__text {
+    margin-left: 0;
+  }
+
+  .images {
+    padding-top: 52px;
+  }
+
+  .navigation__item {
+    margin-bottom: 20px;
+  }
+
+  /* Service page */
+  .escort {
+    padding: 45px 2px 42px 0px;
+  }
+
+  .escort__title {
+    margin-top: 26px;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .escort__text {
+    text-align: center;
+  }
+
+  .consultation__icon {
+    display: none;
+  }
+
+  .consultation {
+    padding: 23px 12px 25px 28px;
+  }
+
+  .consulration__text {
+    margin-top: 15px;
+  }
+
+}
+
+@media screen and (max-width: 476px) {
+  .container {
+    width: 90%;
+  }
+
+  .logo__image {
+    width: 130%;
+  }
+
+
+  .bar {
+    font-size: 20px;
+  }
+
+  .phone {
+    font-size: 9px;
+    width: 103px;
+    padding: 6px;
+  }
+
+  .desetved__more {
+    right: 25%;
+  }
+
+  /* Abaut page */
+  .images__title {
+    font-size: 27.17px;
+  }
+
+  /* Service page */
+  .consultation {
+    padding: 23px 10px 10px 19px;
+    text-align: center;
+  }
+
+
+  .consultation__phone {
+    margin-top: 15px;
+
+    margin-left: 0;
+  }
+
+  .consultation__wrap {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .consulration__text {
+    margin-top: 0;
+    margin: 0 auto;
+  }
+
+  .consultation__icon {
+    margin-top: 20px;
+  }
+
+  .navigation-area__link {
+    margin-left: 9px;
+    font-size: 14.42px;
+  }
+
+  .navigation-area__item::before {
+    margin-left: 18px;
+  }
+
+  .navigation-area__link-br {
+
+    margin-left: 40px;
+  }
+
+  /* Contact page */
+  .nav-area__link {
+    font-size: 14.62px;
+  }
+
+  .wrapper {
+    flex-direction: column;
+  }
+
+  .adress-cart__links {
+    margin-top: 10px;
+  }
+
+  Call form .call {
+    padding: 22px 10px;
+  }
+
+  .call__text {
+    font-size: 11px;
+  }
+
+  .form__input {
+    height: 30px;
+  }
+
+  .form__btn {
+    font-size: 9px;
+    height: 35px;
+  }
+
+  .call__close {
+    font-size: 30px;
+    top: -26px;
+    right: -19px;
+
+  }
+}
+
+
+
+@media screen and (max-width: 350px) {
+  .desetved__more {
+    right: 12%;
+  }
+}
